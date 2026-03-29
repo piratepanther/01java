@@ -1,0 +1,3 @@
+com/voting/system/repository/UserRepositoryTest.class
+com/voting/system/service/AuthServiceTest.class
+com/voting/system/controller/AuthControllerIntegrationTest.class
